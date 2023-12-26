@@ -6,8 +6,12 @@ Symbols used in this app: `± % ÷ × − + =`
 
 Feel free to use this code for your personal projects!
 
-<img src="iphone.png" alt="iphone calculator" style="margin-left: 15px;" />
+## hers's the preview of calculator
 
+
+https://github.com/AbdulRahman788/Calculator-by-js/assets/96978499/25456c2b-5978-4cba-b23b-8f56b9c44830
+
+<img src="iphone.png" alt="iphone calculator" style="margin-left: 15px;" />
 ## Extra Challenges
 
 - Make keyboard inputs work with the calculator
